@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f33375b857807ea43a0d2015c2b86598, type: 3}
+  m_Name: Enrico
+  m_EditorClassIdentifier: 
+  level: 8001
+  seguidoresNoInsta: 0
+  nivelNoDragonCity: 1
+  QI: 72364
+  beleza: 1231234
+  simpatia: 123123124
+  esporteFavorito: Dormir
+  endereco: "Av n\xE3o te interessa"
+  chavePix: 42482431808
+  altura: 1.84
+  tamanhoDaCasaDaBarbie: -40

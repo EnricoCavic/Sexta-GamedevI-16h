@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f33375b857807ea43a0d2015c2b86598, type: 3}
+  m_Name: Bia
+  m_EditorClassIdentifier: 
+  level: 0
+  seguidoresNoInsta: 1700
+  nivelNoDragonCity: 20
+  QI: 200
+  beleza: 3000
+  simpatia: 200
+  esporteFavorito: BBB
+  endereco: 
+  chavePix: fdgd45t464
+  altura: 1.6
+  tamanhoDaCasaDaBarbie: 5000
