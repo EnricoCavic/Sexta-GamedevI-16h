@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f33375b857807ea43a0d2015c2b86598, type: 3}
+  m_Name: Andre
+  m_EditorClassIdentifier: 
+  level: 1
+  seguidoresNoInsta: 135
+  nivelNoDragonCity: 50
+  QI: 110
+  beleza: 300000
+  simpatia: 400000
+  esporteFavorito: RPG
+  endereco: Av dos mais bonitos
+  chavePix: 263452736547
+  altura: 1.85
+  tamanhoDaCasaDaBarbie: 297381

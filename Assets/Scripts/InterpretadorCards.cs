@@ -9,7 +9,7 @@ public class InterpretadorCards : MonoBehaviour
     public GeeksCard carta;
 
     public Text nome, level, beleza, simpatia, qi, pix, insta, dragonCity, altura;
-    
+
 
     // Start is called before the first frame update
     void Start()
@@ -26,17 +26,17 @@ public class InterpretadorCards : MonoBehaviour
     void Interpretar()
     {
         nome.text = carta.name;
-        level.text += " " + carta.level;
+        level.text = "Level: " + carta.level;
 
         beleza.text = carta.beleza.ToString();
         simpatia.text = carta.simpatia.ToString();
         
-        qi.text += " " + carta.QI;
-        pix.text += " " + carta.chavePix;
-        insta.text += " " + carta.seguidoresNoInsta;
+        qi.text = "QI: " + carta.QI;
+        pix.text = "Pix: " + carta.chavePix;
+        insta.text = "Seguidores no insta: " + carta.seguidoresNoInsta;
 
-        dragonCity.text += " " + carta.nivelNoDragonCity;
-        altura.text += " " + carta.altura.ToString();
+        dragonCity.text = "Nível no dragon city: " + carta.nivelNoDragonCity;
+        altura.text = "Altura: " + carta.altura.ToString();
     }
 
     // declaração função com parâmetro
